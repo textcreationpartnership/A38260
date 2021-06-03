@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of the members of the House of Commons who are accused by the Army presented to the House upon Tuesday the 29 of June 1647 : expressing their grounds for desiring leave to absent themselves from the House and their earnest desire for a speedy day to be given unto Sir Thomas Fairfax and the army to send in what particulars they pretend to have against them that so a way may be open for them to vindicate their honour and innocency.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38260</idno><idno type="EEBO-CITATION">9818579</idno>
+  <idno type="VID">44167</idno>
+  <idno type="EEBO-PROQUEST">2264208068</idno>
+  
+            <idno type="STC">Wing E2682</idno>
+            <idno type="STC">ESTC R27345</idno>
+            <idno type="OCLC">09818579</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44167)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1356:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of the members of the House of Commons who are accused by the Army presented to the House upon Tuesday the 29 of June 1647 : expressing their grounds for desiring leave to absent themselves from the House and their earnest desire for a speedy day to be given unto Sir Thomas Fairfax and the army to send in what particulars they pretend to have against them that so a way may be open for them to vindicate their honour and innocency.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  History.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44167:1"/>
+            <pb facs="tcp:44167:1"/>
+            <p>THE PETITION of the MEMBERS of the House of Commons, Who are accused by the ARMY.</p>
+            <p>Presented to the House upon Tuesday <hi>the 29. of June.</hi> 1647.</p>
+            <p>Expressing their grounds for desiring leave to absent themselves from the HOUSE, and their earnest desire for a speedy day to be given unto Sir Thomas Fairfax and the ARMY To send in what particulars they pretend to have a<g ref="char:EOLhyphen"/>gainst them; that so a way may be open for them to Vindicate their <hi>Honour</hi> and <hi>Innocency.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Ralph Smith,</hi> and are to be sold at his shop, at the sign of the <hi>Bible</hi> neer the Royall Exchange, in <hi>Cornhill,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:44167:2"/>
+            <pb n="3" facs="tcp:44167:2"/>
+            <head>TO The Honorable the House of COMMONS.</head>
+            <head>The humble Petition of the Members charged by the Army, who have subscribed their names.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat they have with all fide<g ref="char:EOLhyphen"/>lity to the best of their un<g ref="char:EOLhyphen"/>derstandings discharged the trust reposed in them by their Country in the service of this House: Yet such hath been their unhappiness, as their persons are become the object of the power of the Army, and that in such a height as no<g ref="char:EOLhyphen"/>thing would satisfie but their present suspen<g ref="char:EOLhyphen"/>tion from the House, which if not done by the next day, the Army, or Sir Thomas Fairfax in the name of the Army, declared in
+<pb n="4" facs="tcp:44167:3"/> their Remonstrance of the 23 of June, <hi>That they should be enforced to take such courses extraordinary as God should enable and direct them unto,</hi> And further pressed it by a Letter to the Commissioners of Parliament, to the same effect, dated the 24. which was the day prefix<g ref="char:EOLhyphen"/>ed for our suspention, and al upon pretence of <hi>our interest &amp; prevalency in the House to be such, as they could otherwise expect but smal fruit in their other proceeding,</hi> which how derogatory to the Parliament and how groundless a suggestion to colour the violence intended, we humbly leave to Your wisdomes to judge, You were pleased hereupon to Declare by Vote the 25. of June <hi>That it did not appear that any thing had bin said or done by us within the House touching any matters contained in the Papers sent from the Army, for which you could in Justice suspend us,</hi> And <hi>that by the Laws of the land no Iudgment could be given for our suspen<g ref="char:EOLhyphen"/>tion upon those Papers, before par<g ref="char:EOLhyphen"/>ticulars
+<pb n="5" facs="tcp:44167:3"/> produced and proofs made.</hi> Yet preparations were made (as severall in<g ref="char:EOLhyphen"/>formations brought it unto us) for part of the Army to march towards Westminster, which was looked upon by Your Petitioners as a thing of most sad Consequence to the Parliament, and their misfortune in it considered, that it should happen upon their occasion, though themselves most innocent of it, And this made them resolve rather to desire your leave to absent themselves, which they knew had been formerly practised by Members in the like manner accused, and inconveniencies thereby prevented, And you at this time in your prudence thought fit to grant it; Which as it was done by them out of their meer zeal to the safety and quiet of the House, so they hope it shall not now be turned to their prejudice and dishonour. For notwithstan<g ref="char:EOLhyphen"/>ding many dayes have past since the Army first sent in their generall Charge, and with it a Positive desire of our present suspention, which the House could not give way unto (as is before expressed) and therefore writ to their Commissioners with the Army, declaring their readiness to receive any particulars, and hear any witnesses against us, and if any were
+<pb n="6" facs="tcp:44167:4"/> to be produced, that they expected them by Monday the 28. instant at farthest; in stead thereof we understand, that a Letter is come from Sir Thomas Fairfax, signifying; <hi>That though the particulars and proofs be ready, yet they desire the great busi<g ref="char:EOLhyphen"/>nesses may not be interruped by their comming in till a full settlement;</hi> By which means your Petitioners may lye a long time under a generall accusation, no<g ref="char:EOLhyphen"/>thing instanced in, nothing proved, they not heard, and so neither if innocent cleared, nor condemned if faulty; which, they hope, will not be the pleasure of this Honorable House, as disagreeing from all rules of pro<g ref="char:EOLhyphen"/>ceeding in the Way of Justice, where delayes and denyals be alike forbidden.</p>
+            <div type="part">
+               <p>They therefore humbly pray, the House will be pleased to appoint Sir THO<g ref="char:EOLhyphen"/>MAS FAIRFAX and the ARMY a short and peremptory day to send in those particulars and proofs, that a speedy proceeding may be had hereupon, when they doubt not to make their innocency appear: And in case they come not in at the time appointed that you will be pleased
+<pb n="7" facs="tcp:44167:4"/> to take such course as Your Wisdoms shal think fit, that we may not still be obnoxious to the will and power of others, but that we may have Pas<g ref="char:EOLhyphen"/>ses to dispose of our selves, accord<g ref="char:EOLhyphen"/>ing to our humble desires represen<g ref="char:EOLhyphen"/>ted to the House, when we asked leave to absent our selves.</p>
+               <closer>And we shal pray, <hi>&amp;c.</hi>
+                  <signed>
+                     <list>
+                        <item>Denzel▪ Holles.</item>
+                        <item>Phillip Stapilton.</item>
+                        <item>William Lewis.</item>
+                        <item>William Waller▪</item>
+                        <item>John Clotworthy.</item>
+                        <item>John Maynard.</item>
+                        <item>Edward Massye.</item>
+                        <item>Edward Harley.</item>
+                        <item>Walter Longe.</item>
+                        <item>Anthony Nichols.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
